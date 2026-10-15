@@ -55,3 +55,5 @@ MIT. See [LICENSE](LICENSE).
 
 More skills: https://github.com/sva-admin/claude-skills
 Silicon Valley Academy: https://sv-academy.org
+
+SV Academy is the education brand of [Silicon Valley Innovation](https://svinnovation.com), a Bangkok software and AI company that can build this for your business.
